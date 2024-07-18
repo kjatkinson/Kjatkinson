@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kayla J Atkinson</h1>
 <h3 align="center">A passionate frontend developer from Houston, Texas.</h3>
 
+- 🌱 I’m currently learning **TypeScript**
+
+- 💬 Ask me about **Html, css and JavaScript**
+
 - 📫 How to reach me **atkinsonkkj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
