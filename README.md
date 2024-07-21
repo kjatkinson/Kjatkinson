@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kayla J Atkinson</h1>
-<h3 align="center">Passionate about lifelong learning, I’m transitioning from a 2-year teaching career to frontend development. I’ve mastered HTML, CSS, JavaScript, and React, driven by a desire to create intuitive web applications. My background in education equips me with strong communication, project management, and problem-solving skills. I’m excited to bring these abilities to a frontend development team and enhance user experiences through technology.</h3>
+<h3 align="center">Frontend Developer</h3>
 
 - 🌱 I’m currently learning **TypeScript**
 
