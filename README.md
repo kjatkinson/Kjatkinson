@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **Html, css and JavaScript**
+- 💬 Ask me about **Html, Css and JavaScript**
 
 - 📫 How to reach me **atkinsonkkj@gmail.com**
 
