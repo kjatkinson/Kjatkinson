@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kayla J Atkinson</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Training to become a Data Analyst</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **SQL**
 
-- 💬 Ask me about **Html, Css and JavaScript**
+- 💬 Ask me about **Html, EXCEL, Css**
 
 - 📫 How to reach me **atkinsonkkj@gmail.com**
 
